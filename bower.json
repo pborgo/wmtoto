@@ -1,0 +1,21 @@
+{
+  "name": "wmtoto",
+  "authors": [
+    "Patrick Borgo"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.4",
+    "angular": "~1.4.8",
+    "angular-ui-router": "~0.2.15",
+    "angular-material": "0.11.4",
+    "moment": "~2.10.6"
+  }
+}
